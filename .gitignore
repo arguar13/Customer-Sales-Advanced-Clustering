@@ -1,0 +1,13 @@
+READ.md
+clean_data.csv
+export.py
+practica.ipynb
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Blog drafts (not part of the project)
+blog/
